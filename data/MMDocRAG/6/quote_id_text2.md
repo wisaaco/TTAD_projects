@@ -1,0 +1,1 @@
+The Company received 13 share related complaints during the financial year ended 31st March, 2007, which translate to 0.003% of the total number of Shareholders of the Company. The said complaints have been resolved.

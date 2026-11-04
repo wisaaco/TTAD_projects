@@ -1,0 +1,3 @@
+![Figure 5](../../images/f86d073b0d735ac873a65d906ba82758_image24.jpg)
+
+Figure 5. The table lists details about dividends for various financial years, including: 1. **Financial Year**: Ranges from 1999-00 to 2005-06. 2. **Dividend Identification No.**: Ranges from 70th to 76th. 3. **Date of Declaration of Dividend**: Specific dates from July 28, 2000, to July 21, 2006. 4. **Total Dividend (Rs.)**: Amounts from ₹1,84,06,11,780.00 to ₹9,95,12,91,267.00. 5. **Unclaimed Dividend as on 31/03/2007**: - Amounts: Ranging from ₹1,26,32,087.00 to ₹7,38,87,332.00. - Percentage: From 0.64% to 0.84%. 6. **Due for transfer to IEPF on**: Dates from September 15, 2007, to August 26, 2013.

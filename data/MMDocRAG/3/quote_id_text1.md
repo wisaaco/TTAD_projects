@@ -1,0 +1,1 @@
+Our Domestic streaming segment had a contribution margin of 27% for the year ended December 31, 2014, which increased as compared to the contribution margin of 23% for the year ended December 31, 2013 due to growth in paid memberships and revenue, which continued to outpace content and marketing spending.

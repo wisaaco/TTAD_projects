@@ -1,0 +1,1 @@
+The following graph compares the cumulative total shareholder return (stock price appreciation and the reinvestment of dividends) on an investment of $100 in Costco common stock, S&P 500 Index, and the S&P 500 Retail Index over the five years from August 28, 2016, through August 29, 2021.

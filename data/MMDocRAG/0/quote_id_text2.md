@@ -1,0 +1,1 @@
+Material contractual obligations arising in the normal course of business primarily consist of purchase obligations, long-term debt and related interest payments, leases, and construction and land purchase obligations. See Notes 5 and to the consolidated financial statements included in Item 8 of this Report for amounts outstanding on August 29, 2021, related to debt and leases.

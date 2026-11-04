@@ -1,0 +1,3 @@
+![Figure 6](../../images/COSTCO_2021_10K_image18.jpg)
+
+Figure 6. The table displays financial data, likely from an equity statement over several years from 2018 to 2021. It details: - **Common Stock:** Number of shares and their dollar amount. - **Additional Paid-in Capital** - **Accumulated Other Comprehensive Income (Loss)** - **Retained Earnings** - **Total Costco Stockholders' Equity** - **Noncontrolling Interests** - **Total Equity** Transactions include net income, foreign-currency translation adjustments, stock-based compensation, release of restricted stock units, repurchases of common stock, and cash dividends. Balances are shown at the end of each period.

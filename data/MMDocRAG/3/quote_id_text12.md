@@ -1,0 +1,1 @@
+We define contribution profit (loss) as revenues less cost of revenues and marketing expenses incurred by the segment. We believe this is an important measure of our operating segment performance as it represents each segment's performance before global corporate costs.

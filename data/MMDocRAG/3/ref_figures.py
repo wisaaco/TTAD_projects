@@ -1,0 +1,42 @@
+REF_IMAGES = [
+  {
+    "quote_id": "image1",
+    "img_path": "images/NETFLIX_2015_10K_image7.jpg",
+    "img_description": "The table provides data on memberships and contribution profit for the years ending December 31, 2015, 2014, and 2013, along with changes from year to year. Below is a summary of its content:\n\n### Memberships\n- **Net Additions**: \n  - 2015: 5,624\n  - 2014: 5,694\n  - 2013: 6,274\n  - 2015 vs. 2014: Decrease of 70 (1%)\n  - 2014 vs. 2013: Decrease of 580 (9%)\n\n- **Memberships at End of Period**:\n  - 2015: 44,738\n  - 2014: 39,114\n  - 2013: 33,420\n  - 2015 vs. 2014: Increase of 5,624 (14%)\n  - 2014 vs. 2013: Increase of 5,694 (17%)\n\n- **Paid Memberships at End of Period**:\n  - 2015: 43,401\n  - 2014: 37,698\n  - 2013: 31,712\n  - 2015 vs. 2014: Increase of 5,703 (15%)\n  - 2014 vs. 2013: Increase of 5,986 (19%)\n\n- **Average Monthly Revenue per Paying Membership**:\n  - 2015: $8.50\n  - 2014: $8.14\n  - 2013: $7.97\n  - 2015 vs. 2014: Increase of $0.36 (4%)\n  - 2014 vs. 2013: Increase of $0.17 (2%)\n\n### Contribution Profit\n- **Revenues**:\n  - 2015: $4,180,339\n  - 2014: $3,431,434\n  - 2013: $2,751,375\n  - 2015 vs. 2014: Increase of $748,905 (22%)\n  - 2014 vs. 2013: Increase of $680,059 (25%)\n\n- **Cost of Revenues**:\n  - 2015: $2,487,193\n  - 2014: $2,201,761\n  - 2013: $1,863,376\n  - 2015 vs. 2014: Increase of $285,432 (13%)\n  - 2014 vs. 2013: Increase of $338,385 (18%)\n\n- **Marketing**:\n  - 2015: $317,646\n  - 2014: $293,453\n  - 2013: $265,232\n  - 2015 vs."
+  },
+  {
+    "quote_id": "image2",
+    "img_path": "images/NETFLIX_2015_10K_image14.jpg",
+    "img_description": "The table contains financial data related to the provision for income taxes and the effective tax rate for the years ended December 31, 2013, 2014, and 2015. Here are the details:\n\n1. **Provision for Income Taxes (in thousands):**\n   - 2015: $19,244\n   - 2014: $82,570\n   - 2013: $58,671\n\n2. **Change in Provision for Income Taxes:**\n   - 2015 vs. 2014: Decreased by $63,326 (a 77% decrease)\n   - 2014 vs. 2013: Increased by $23,899 (a 41% increase)\n\n3. **Effective Tax Rate:**\n   - 2015: 14%\n   - 2014: 24%\n   - 2013: 34%\n\nThe table highlights significant changes in income tax provisions and effective tax rates over the three-year period, with a stark decrease in both from 2014 to 2015."
+  },
+  {
+    "quote_id": "image3",
+    "img_path": "images/NETFLIX_2015_10K_image11.jpg",
+    "img_description": "The image is a table showing the general and administrative expenses for a company over the years ended December 31 for 2015, 2014, and 2013. The amounts are given in thousands of dollars. The table highlights the following:\n\n- For 2015, the expenses were $407,329.\n- For 2014, the expenses were $269,741.\n- For 2013, the expenses were $180,301.\n\nThe table also includes the change in these expenses over the years:\n- From 2015 to 2014, there was an increase of $137,588, which represents a 51% rise.\n- From 2014 to 2013, there was an increase of $89,440, which represents a 50% rise.\n\nAdditionally, the expenses are shown as a percentage of revenues for each year:\n- 6% in 2015\n- 5% in 2014\n- 4% in 2013"
+  },
+  {
+    "quote_id": "image4",
+    "img_path": "images/NETFLIX_2015_10K_image10.jpg",
+    "img_description": "The image shows a financial table titled \"Technology and development\" for the years ended December 31, 2015, 2014, and 2013. It displays amounts in thousands of dollars and percentages of revenue.\n\n- **2015**: $650,788 (10% of revenue)\n- **2014**: $472,321 (9% of revenue)\n- **2013**: $378,769 (9% of revenue)\n\nThe changes are as follows:\n\n- **2015 vs. 2014**: Increase of $178,467 (38%)\n- **2014 vs. 2013**: Increase of $93,552 (25%)"
+  },
+  {
+    "quote_id": "image5",
+    "img_path": "images/NETFLIX_2015_10K_image13.jpg",
+    "img_description": "The table presents data related to \"Interest and other income (expense)\" for the years ended December 31, 2013, 2014, and 2015. The values are in thousands, except for the percentages.\n\nHere's the breakdown:\n\n- For the year 2015, the interest and other income (expense) was $(31,225) thousand.\n- For the year 2014, it was $(3,060) thousand.\n- For the year 2013, it was $(3,002) thousand.\n\nThe table also shows the change over the years:\n\n- From 2015 to 2014, there was a change of $(28,165) thousand or a (920)% decrease.\n- From 2014 to 2013, there was a change of $(58) thousand, which translates to a (2)% decrease."
+  },
+  {
+    "quote_id": "image6",
+    "img_path": "images/NETFLIX_2015_10K_image8.jpg",
+    "img_description": "The table contains financial and membership data for the years 2013, 2014, and 2015, along with percentage changes from year to year. Breakdown:\n\n**Memberships:**\n- **Net Additions:** \n  - 2015: 11,747\n  - 2014: 7,347\n  - 2013: 4,809\n  - 2015 vs. 2014 Change: 4,400 (60%)\n  - 2014 vs. 2013 Change: 2,538 (53%)\n\n- **Memberships at End of Period:**\n  - 2015: 30,024\n  - 2014: 18,277\n  - 2013: 10,930\n  - 2015 vs. 2014 Change: 11,747 (64%)\n  - 2014 vs. 2013 Change: 7,347 (67%)\n\n- **Paid Memberships at End of Period:**\n  - 2015: 27,438\n  - 2014: 16,778\n  - 2013: 9,722\n  - 2015 vs. 2014 Change: 10,660 (64%)\n  - 2014 vs. 2013 Change: 7,056 (73%)\n\n- **Average Monthly Revenue per Paying Membership:**\n  - 2015: $7.48\n  - 2014: $8.34\n  - 2013: $8.26\n  - 2015 vs. 2014 Change: ($0.86) (-10%)\n  - 2014 vs. 2013 Change: $0.08 (1%)\n\n**Contribution Loss:**\n- **Revenues:**\n  - 2015: $1,953,435\n  - 2014: $1,308,061\n  - 2013: $712,390\n  - 2015 vs. 2014 Change: $645,374 (49%)\n  - 2014 vs. 2013 Change: $595,671 (84%)\n\n- **Cost of Revenues:**\n  - 2015: $1,780,375\n  - 2014: $1,154,117\n  - 2013: $782,304\n  - 2015 vs. 2014 Change: $626,258 (54%)\n  - 2014 vs. 2013 Change: $371,813 (48%)\n\n- **Marketing:**\n  - 2015: $506,446\n  - 2014: $313,733\n  - 2013: $204,418\n  - 2015 vs. 2014 Change: $192,713 (61%)\n  - 2014 vs. 2013 Change:"
+  },
+  {
+    "quote_id": "image7",
+    "img_path": "images/NETFLIX_2015_10K_image12.jpg",
+    "img_description": "The image is a financial table showing interest expense for the years ended December 31, 2015, 2014, and 2013. It also includes percentage changes for 2015 vs. 2014 and 2014 vs. 2013.\n\n- **Interest Expense**:\n  - 2015: $(132,716) thousand\n  - 2014: $(50,219) thousand\n  - 2013: $(29,142) thousand\n\n- **As a percentage of revenues**:\n  - 2015: 2%\n  - 2014: 1%\n  - 2013: 1%\n\n- **Change**:\n  - 2015 vs. 2014: Increase of $82,497 thousand (164%)\n  - 2014 vs. 2013: Increase of $21,077 thousand (72%)"
+  },
+  {
+    "quote_id": "image8",
+    "img_path": "images/NETFLIX_2015_10K_image9.jpg",
+    "img_description": "The table presents financial and membership data as of December 31 for the years 2015, 2014, and 2013, along with changes between these years. It is divided into two main sections:\n\n1. **Memberships:**\n   - **Net losses:** Shows the number of memberships lost during each year, with a decrease of 300 (26%) from 2014 to 2015, and 131 (10%) from 2013 to 2014.\n   - **Memberships at end of period:** Indicates the total count of memberships at the end of each year, showing reductions of 863 (15%) from 2014 to 2015, and 1,163 (17%) from 2013 to 2014.\n   - **Paid memberships at end of period:** Lists the number of paying memberships at the end of each year, with decreases of 881 (16%) from 2014 to 2015, and 1,097 (16%) from 2013 to 2014.\n   - **Average monthly revenue per paying membership:** Displays a small increase in revenue per membership, $0.01 from 2014 to 2015, and $0.04 from 2013 to 2014.\n\n2. **Contribution profit:**\n   - **Revenues:** Reflects total revenues, showing a decline of $119,424 (16%) from 2014 to 2015, and $145,636 (16%) from 2013 to 2014.\n   - **Cost of revenues:** Indicates the costs associated with revenues, which dropped by $72,974 (18%) from 2014 to 2015, and $74,641 (16%) from 2013 to 2014.\n   - **Marketing:** No marketing expenses are reported for these years.\n   - **Contribution profit:** Shows the contribution profit, which decreased by $46,450 (13%) from 2014 to 2015, and $70,703 (16%) from 2013 to 2014.\n   - **Contribution margin:** Displays percentage margins, which were 50% in 2015 and 48% in both 2014 and 2013.\n\nOverall, the table presents a declining trend in memberships and financial performance from 2013 to 2015."
+  }
+]

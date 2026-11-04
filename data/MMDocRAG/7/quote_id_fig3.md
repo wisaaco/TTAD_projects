@@ -1,0 +1,3 @@
+![Figure 3](../../images/ADOBE_2015_10K_image18.jpg)
+
+Figure 3. The table shows payments due by period, divided into four columns: - **Total** - **Less than 1 year** - **1-3 years** - **3-5 years** - **More than 5 years** Each row contains: 1. Totals for the period: - Total: $2,401.1 - Less than 1 year: $75.3 - 1-3 years: $150.5 - 3-5 years: $1,029.1 - More than 5 years: $1,146.2 2. Second row of values: - Total: $185.2 - Less than 1 year: $39.5 - 1-3 years: $57.1 - 3-5 years: $43.2 - More than 5 years: $45.4 3. Third row of values: - Total: $419.8 - Less than 1 year: $341.3 - 1-3 years: $74.6 - 3-5 years: $3.9 - More than 5 years: None 4. Final totals: - Total: $3,006.1 - Less than 1 year: $456.1 - 1-3 years: $282.2 - 3-5 years: $1,076.2 - More than 5 years: $1,191.6

@@ -1,0 +1,1 @@
+The increase in our domestic streaming revenues was due to the 22% growth in the average number of paid memberships, as well as to the 2% increase in average monthly revenue per paying membership resulting from our price increase for new members in the second quarter of 2014 and introduction of the higher priced plan in 2013.

@@ -1,0 +1,3 @@
+![Figure 2](../../images/NETFLIX_2015_10K_image14.jpg)
+
+Figure 2. The table contains financial data related to the provision for income taxes and the effective tax rate for the years ended December 31, 2013, 2014, and 2015. Here are the details: 1. **Provision for Income Taxes (in thousands):** - 2015: $19,244 - 2014: $82,570 - 2013: $58,671 2. **Change in Provision for Income Taxes:** - 2015 vs. 2014: Decreased by $63,326 (a 77% decrease) - 2014 vs. 2013: Increased by $23,899 (a 41% increase) 3. **Effective Tax Rate:** - 2015: 14% - 2014: 24% - 2013: 34% The table highlights significant changes in income tax provisions and effective tax rates over the three-year period, with a stark decrease in both from 2014 to 2015.

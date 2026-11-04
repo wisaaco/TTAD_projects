@@ -1,0 +1,1 @@
+The total intrinsic value of options exercised during fiscal 2015, 2014 and 2013 was $92.3 million, $141.3 million and $181.8 million, respectively. The intrinsic value is calculated as the difference between the market value on the date of exercise and the exercise price of the shares.

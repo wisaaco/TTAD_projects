@@ -1,0 +1,1 @@
+• We have demonstrated our ability to grow domestic streaming contribution margin as evidenced by the increase in contribution margin from 17% in 2012 to 33% in 2015. As a result of our focus on growing the streaming segments, contribution margins for the Domestic and International streaming segments are lower than for our Domestic DVD segment.

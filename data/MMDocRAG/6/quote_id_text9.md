@@ -1,0 +1,1 @@
+Pursuant to the offer of Global Depository Receipts (GDRs) made by the Company in 1993, 5,56,13,501 GDRs, representing 5,56,13,501 underlying Shares of the Company i.e. 1.48% of the issued and subscribed Share Capital, were outstanding as on 31st March, 2007.

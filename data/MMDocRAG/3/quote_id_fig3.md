@@ -1,0 +1,3 @@
+![Figure 3](../../images/NETFLIX_2015_10K_image11.jpg)
+
+Figure 3. The image is a table showing the general and administrative expenses for a company over the years ended December 31 for 2015, 2014, and 2013. The amounts are given in thousands of dollars. The table highlights the following: - For 2015, the expenses were $407,329. - For 2014, the expenses were $269,741. - For 2013, the expenses were $180,301. The table also includes the change in these expenses over the years: - From 2015 to 2014, there was an increase of $137,588, which represents a 51% rise. - From 2014 to 2013, there was an increase of $89,440, which represents a 50% rise. Additionally, the expenses are shown as a percentage of revenues for each year: - 6% in 2015 - 5% in 2014 - 4% in 2013

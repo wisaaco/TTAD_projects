@@ -1,0 +1,1 @@
+Our Domestic streaming segment had a contribution margin of 33% for the year ended December 31, 2015, which increased as compared to the contribution margin of 27% for the year ended December 31, 2014 due to growth in paid memberships and revenue, which continued to outpace content and marketing spending. Our 2020 domestic streaming contribution margin target remains at 40%.

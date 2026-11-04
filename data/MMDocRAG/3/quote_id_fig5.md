@@ -1,0 +1,3 @@
+![Figure 5](../../images/NETFLIX_2015_10K_image13.jpg)
+
+Figure 5. The table presents data related to "Interest and other income (expense)" for the years ended December 31, 2013, 2014, and 2015. The values are in thousands, except for the percentages. Here's the breakdown: - For the year 2015, the interest and other income (expense) was $(31,225) thousand. - For the year 2014, it was $(3,060) thousand. - For the year 2013, it was $(3,002) thousand. The table also shows the change over the years: - From 2015 to 2014, there was a change of $(28,165) thousand or a (920)% decrease. - From 2014 to 2013, there was a change of $(58) thousand, which translates to a (2)% decrease.
