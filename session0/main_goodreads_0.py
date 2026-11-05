@@ -1,23 +1,21 @@
 import csv
-
-# https://docs.python.org/3/library/csv.html
-def clean_goodreads_data_users():
-    usersGoodreadsPathFile = "data/goodreads_etl_pipeline/SampleData/user.csv"
-
+#skjdksjdksjdksdjksdjksdsjldfldgñjfgj
+def unique_users(usersGoodreadsPathFile):
     with open(usersGoodreadsPathFile,newline="") as csvfile:
         samples = csv.reader(csvfile, delimiter=',')
-        for user in samples:
-            print(user)
-            break
-
-# ¿Cuantos usuarios únicos tenemos?
-
-# ¿Podemos generar un nuevo fichero con los datos de usuarios únicos?
-# TIP: https://docs.python.org/3/library/csv.html#csv.DictWriter
-
-
-
-
+        collection_ids = {}
+        for row in samples:
+            collection_ids[row[0]]=""
+        total_users = len(collection_ids.keys())-1 #header
+        return total_users
 
 if __name__ == "__main__":
-    clean_goodreads_data_users()
+    usersGoodreadsPathFile = "data/goodreads_etl_pipeline/SampleData/user.csv"
+    total = unique_users(usersGoodreadsPathFile)
+
+    usersGoodreadsPathFile2 = "data/goodreads_etl_pipeline/SampleData/user2.csv"
+    total2 = unique_users(usersGoodreadsPathFile2)
+
+
+    total3 = unique_users()
+    print(total+total2+total3)
